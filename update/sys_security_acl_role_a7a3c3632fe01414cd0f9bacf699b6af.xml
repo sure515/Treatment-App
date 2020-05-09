@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-09 14:54:41</sys_created_on>
+        <sys_id>a7a3c3632fe01414cd0f9bacf699b6af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_476057_treatment_test_table.x_476057_treatment.test_table_user</sys_name>
+        <sys_package display_value="Treatment App" source="x_476057_treatment">91f103eb2facd014cd0f9bacf699b6b5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Treatment App">91f103eb2facd014cd0f9bacf699b6b5</sys_scope>
+        <sys_security_acl display_value="x_476057_treatment_test_table">27a3c3632fe01414cd0f9bacf699b6ac</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_a7a3c3632fe01414cd0f9bacf699b6af</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-09 14:54:41</sys_updated_on>
+        <sys_user_role display_value="x_476057_treatment.test_table_user" name="x_476057_treatment.test_table_user">53a3832f2fa01414cd0f9bacf699b6e2</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
